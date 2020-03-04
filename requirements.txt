@@ -1,3 +1,2 @@
 pytest==5.3.5
-pytest-rerunfailures
 selenium
